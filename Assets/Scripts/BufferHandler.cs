@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BufferHandler : MonoBehaviour, BufferProperties
+public class BufferHandler : MonoBehaviour
 {
 
     // Start is called before the first frame update

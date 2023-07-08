@@ -11,7 +11,7 @@ enum CharacterType
 
 
 [RequireComponent(typeof(Move))]
-[RequireComponent(typeof(BufferManager))]
+[RequireComponent(typeof(BufferHandler))]
 public class Character : MonoBehaviour
 {
     [SerializeField]
